@@ -1276,3 +1276,22 @@ footer{
     line-height:2;
 
 }
+/* ---------- LEGAL PAGES ---------- */
+
+.about-text h3{
+
+    margin-top:35px;
+
+    color:#2F5D50;
+
+    font-family:'Poppins', sans-serif;
+
+}
+
+.about-text .button{
+
+    display:inline-block;
+
+    margin-top:40px;
+
+}
