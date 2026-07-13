@@ -1295,3 +1295,9 @@ footer{
     margin-top:40px;
 
 }
+.card-link {
+    display: inline-block;
+    margin-top: 15px;
+    text-decoration: none;
+    font-weight: 600;
+}
